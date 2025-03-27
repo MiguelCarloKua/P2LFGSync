@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignore local media
+Demo.mp4
+
 # User-specific files
 *.rsuser
 *.suo
