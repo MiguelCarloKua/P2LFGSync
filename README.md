@@ -29,3 +29,6 @@ This program simulates dungeon queue synchronization for an MMORPG using C++ mul
 ## ⚙️ Configuration – `config.txt`
 
 Customize dungeon behavior with the following parameters:
+   - Number of players
+   - Dungeon instances
+   - Minimum/maximum dungeon runtime
